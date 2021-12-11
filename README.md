@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Habbit: Listening musics.
-- 
+
 **Why Me*?*
 
 First and formost, I love what I do - and what I do is blockchain!
