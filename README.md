@@ -15,6 +15,7 @@ First and formost, I love what I do - and what I do is blockchain!
 
    1. *Blockchain*  
    2.  Ethereum Dapps
+
        - Financial applications (Manipulate Ether, ERC20, ICO...)
        - Good knowledge of tokens (ERC20, ERC721)
        - Governance (DAO)
