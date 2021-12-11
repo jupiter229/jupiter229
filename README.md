@@ -29,14 +29,18 @@ First and formost, I love what I do - and what I do is blockchain!
       - Test your Solidity code
       - Integrate frontend with wallets like Metamask
       - Modern reactive UI, by using frontend Dapp framework like Drizzle
-      - 
+      
    4. *Frontend dev skills* 
+   
       React.js, Next.js, Vue.js,  Nuxt.js, Gatsby.js, Meteor.js, Ember.js, Tailwind CSS, Post CSS and much more...
    5. *Full Stack/Backend dev skills*
+   
       Node.js, Python/Django
    6. *Cloud Technologies*
+   
        Docker, AWS, Azure
    7. *As Bonus*
+   
       Shopify
 
   <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" />
