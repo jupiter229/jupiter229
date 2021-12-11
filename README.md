@@ -1,11 +1,11 @@
 ### Hi I'm a software developer, I know blockchain[Like, a lot]😄👋
 - 🔭 I’m currently working on blockchain technology.
-- 🌱 I’m currently learning ...
+- 🌱 I'd love to growth my dev team!
 - 👯 I’m looking to collaborate on any Dapps! 
 - 💬 Ask me about any questions or concerns you have
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- ⚡ Habbit: listening musics.
+- ⚡ Habbit: Listening musics.
 - 
 **Why Me*?*
 
