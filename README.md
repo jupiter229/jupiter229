@@ -1,11 +1,11 @@
-### Hi I'm a software developer, I know blockchain[Like, a lot]😄👋
+### Senior Software Enginner, Logical/Strategy adviser, System Archtecture and pianist, I know blockchain[Like, a lot]😄👋
 - 🔭 I’m currently working on blockchain technology.
-- 🌱 I'd love to growth my dev team!
-- 👯 I’m looking to collaborate on any Dapps! 
+- 🌱 I'd love to help your work
+- 👯 I’m looking forward collaborating Defi, GameFi and NFT projects! 
 - 💬 Ask me about any questions or concerns you have
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- ⚡ Habbit: Listening musics.
+- ⚡ Habbit: Reading, Piano, .
 
 **Why Me*?*
 
@@ -17,9 +17,9 @@ First and formost, I love what I do - and what I do is blockchain!
    2.  Ethereum Dapps
 
        - Financial applications (Manipulate Ether, ERC20, ICO...)
-       - Good knowledge of tokens (ERC20, ERC721)
+       - Good knowledge of tokens (ERC20, ERC721, ERC1155)
        - Governance (DAO)
-       - Game (ERC721, Crypto-collectibles)
+       - Game (ERC721, ERC1155, Crypto-collectibles)
        - Generate randomness
        - Importing data to the Blockchain (oracles)
        - Low-level knowledge of the EVM (assembly)
@@ -32,7 +32,7 @@ First and formost, I love what I do - and what I do is blockchain!
       
    4. *Frontend dev skills* 
    
-      React.js, Next.js, Vue.js,  Nuxt.js, Gatsby.js, Meteor.js, Ember.js, Tailwind CSS, Post CSS and much more...
+      React.js, Next.js, Vue.js,  Nuxt.js, Ethers.js, Web3.js, Gatsby.js, Meteor.js, Ember.js, Tailwind CSS, Post CSS and much more...
    5. *Full Stack/Backend dev skills*
    
       Node.js, Python/Django
