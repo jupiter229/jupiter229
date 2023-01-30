@@ -17,6 +17,7 @@ First and formost, I love what I do - and what I do is blockchain!
    2.  Ethereum Dapps
 
        - Financial applications (Manipulate Ether, ERC20, ICO...)
+       - Proficient in Cosmos SDK
        - Good knowledge of tokens (ERC20, ERC721, ERC1155)
        - Governance (DAO)
        - Game (ERC721, ERC1155, Crypto-collectibles)
@@ -24,11 +25,11 @@ First and formost, I love what I do - and what I do is blockchain!
        - Importing data to the Blockchain (oracles)
        - Low-level knowledge of the EVM (assembly)
       
-   3. *Strong Solidity Skills*
-      - Write safe Solidity smart contracts
-      - Test your Solidity code
-      - Integrate frontend with wallets like Metamask
-      - Modern reactive UI, by using frontend Dapp framework like Drizzle
+   3. *Strong Smart Contract Skills*
+      - Write safe smart contracts using Solidity, Rust and Golang
+      - Test your contracts code
+      - Integrate frontend with various wallets
+      - Modern interactive web3 frontend UI/UX
       
    4. *Frontend dev skills* 
    
