@@ -1,7 +1,7 @@
 ### Senior Software Enginner, Logical/Strategy adviser, System Archtecture and pianist, I know blockchain[Like, a lot]😄👋
 - 🔭 I’m currently working on blockchain technology.
 - 🌱 I'd love to help your work
-- 👯 I’m looking forward collaborating Defi, GameFi and NFT projects! 
+- 👯 I’m looking forward collaborating any web3 proejcts such as Defi, GameFi and NFT projects! 
 - 💬 Ask me about any questions or concerns you have
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
@@ -17,11 +17,12 @@ First and formost, I love what I do - and what I do is blockchain!
    2.  Ethereum Dapps
 
        - Financial applications (Manipulate Ether, ERC20, ICO...)
-       - Proficient in Cosmos SDK
-       - Good knowledge of tokens (ERC20, ERC721, ERC1155)
+       - Proficient in Cosmos SDK and Rust
+       - Strong knowledge of tokens (ERC20, ERC721, ERC1155, BRC20, Ord)
        - Governance (DAO)
        - Game (ERC721, ERC1155, Crypto-collectibles)
        - Generate randomness
+       - Proficient in zKEVM
        - Importing data to the Blockchain (oracles)
        - Low-level knowledge of the EVM (assembly)
       
@@ -33,7 +34,7 @@ First and formost, I love what I do - and what I do is blockchain!
       
    4. *Frontend dev skills* 
    
-      React.js, Next.js, Vue.js,  Nuxt.js, Ethers.js, Web3.js, Gatsby.js, Meteor.js, Ember.js, Tailwind CSS, Post CSS and much more...
+      React.js, Next.js, Ethers.js, Web3.js, Gatsby.js, remix, TailwindCSS and much more...
    5. *Full Stack/Backend dev skills*
    
       Node.js, Python/Django
@@ -42,7 +43,7 @@ First and formost, I love what I do - and what I do is blockchain!
        Docker, AWS, Azure
    7. *As Bonus*
    
-      Shopify
+      Shopify, Headless storefront development with hydrogen, oxygen and etc
 
   <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" />
 
