@@ -34,13 +34,13 @@ First and formost, I love what I do - and what I do is blockchain!
       
    4. *Frontend dev skills* 
    
-      React.js, Next.js, Ethers.js, Web3.js, Gatsby.js, remix, TailwindCSS and much more...
+      React.js, Next.js, Vite, Zustand, Redux, Hooks, Wagmi, Web3Auth, Ethers.js, Web3.js, Gatsby.js, remix, TailwindCSS and much more...
    5. *Full Stack/Backend dev skills*
    
-      Python/Django, Flask, Node.js, Express
+      Python/Django, Flask, Node.js, Express, Nestjs
    6. *Cloud Technologies*
    
-       Docker, AWS, Azure
+       Docker, AWS, Azure, Firebase
    7. *As Bonus*
    
       Shopify, Headless storefront development with hydrogen, oxygen and etc
