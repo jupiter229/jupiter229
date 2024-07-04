@@ -11,7 +11,7 @@
 
 First and formost, I love what I do - and what I do is blockchain!
 
-**2 inspriring sentences I like, try and show **
+### From great people I respect... and I like, try and will! ###
 1. Quality is more important than quantity. One home run is much better than two doubles. 
 2. Risk-taking, innovation, long-term vision and adapt & learn from failure.
    
