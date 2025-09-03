@@ -1,51 +1,67 @@
-### Shopify Developer | Frontend Engineer | Pianist 🎹👋  
+### Senior Software Enginner and pianist, I know blockchain[Like, a lot]😄👋
+- 🔭 I’m currently working on blockchain technology.
+- 🌱 I'd love to help your work
+- 👯 I’m looking forward collaborating any web3 proejcts such as Defi, GameFi and NFT projects! 
+- 💬 Ask me about any questions or concerns you have
+- 📫 How to reach me: ...
+- 😄 Pronouns: he/him
+- ⚡ Habbit: Reading, Piano, .
 
-- 🔭 I’m currently working on **Shopify Plus store development** and **headless commerce with Hydrogen/Remix**.  
-- 🌱 I specialize in building **custom Shopify themes**, **custom Shopify Apps**, and integrating with APIs like Recharge for subscriptions.  
-- 👯 I’m open to collaborating on **Shopify projects, CRO improvements, headless storefronts, and modern ecommerce solutions**.  
-- 💬 Ask me about **Shopify, Hydrogen, custom themes, subscription flows, and ecommerce scaling**.  
-- 📫 How to reach me: ...  
-- 😄 Pronouns: he/him  
-- ⚡ Hobbies: Piano, reading, and exploring new tech.  
+**Why Me*?*
 
----
+First and formost, I love what I do - and what I do is blockchain!
 
-**Why Me?**  
+### From great people I respect... and I like, try and will! ###
+1. Quality is more important than quantity. One home run is much better than two doubles. 
+2. Risk-taking, innovation, long-term vision and adapt & learn from failure.
+   
+**Skills/Interests**
 
-I love building seamless ecommerce experiences that **boost conversions, performance, and scalability**.  
-From custom Shopify theme development to **API Integrations**, I bring both creativity and technical expertise to deliver solutions that help brands grow.  
+   1. *Blockchain*  
+   2.  Ethereum Dapps
 
----
+       - Financial applications (Manipulate Ether, ERC20, ICO...)
+       - Proficient in Cosmos SDK and Rust
+       - Strong knowledge of tokens (ERC20, ERC721, ERC1155, BRC20, Ord)
+       - Governance (DAO)
+       - Game (ERC721, ERC1155, Crypto-collectibles)
+       - Generate randomness
+       - Proficient in zKEVM
+       - Importing data to the Blockchain (oracles)
+       - Low-level knowledge of the EVM (assembly)
+      
+   3. *Strong Smart Contract Skills*
+      - Write safe smart contracts using Solidity, Rust and Golang
+      - Test your contracts code
+      - Integrate frontend with various wallets
+      - Modern interactive web3 frontend UI/UX
+      
+   4. *Frontend dev skills* 
+   
+      React.js, Next.js, Vite, Zustand, Redux, Hooks, Wagmi, Web3Auth, Ethers.js, Web3.js, Gatsby.js, remix, TailwindCSS and much more...
+   5. *Full Stack/Backend dev skills*
+   
+      Python/Django, Flask, Node.js, Express, Nestjs
+   6. *Cloud Technologies*
+   
+       Docker, AWS, Azure, Firebase
+   7. *As Bonus*
+   
+      Shopify, Headless storefront development with hydrogen, oxygen and etc
 
-### Skills & Interests  
+  <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" />
 
-#### 🛍 Shopify & Ecommerce  
-- Shopify / Shopify Plus theme development (PDP, LP, collection pages, homepages, etc.)  
-- Shopify Hydrogen & Oxygen (headless storefronts)  
-- Recharge subscription integrations (REST APIs, Theme Engine customization)  
-- Conversion Rate Optimization (CRO) improvements  
-- Performance tuning (Core Web Vitals, SEO, scalable storefronts)  
+<!--
+**jupiter229/jupiter229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#### 💻 Frontend Development  
-- HTML, CSS, Javascript, Liquid
-- React.js, Remix, Next.js, Vite  
-- State management: Zustand, Redux, Hooks  
-- TailwindCSS, Framer Motion, shadcn/ui  
-- Modern UI/UX best practices  
+Here are some ideas to get you started:
 
-#### ⚙️ Backend / Full Stack  
-- Node.js, Express, NestJS  
-- Python/Django, Flask  
-- API design & integrations  
-
-#### ☁️ Cloud & Tools  
-- Docker, AWS, Firebase, Azure  
-
-#### 🎯 Bonus Skills (Blockchain/Web3)  
-- Smart contracts 
-- Web3 
-
-
----
-
-<img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" />  
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
